@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![dcamp200](https://circleci.com/gh/dcamp200/devops.svg?style=svg)](https://app.circleci.com/pipelines/github/dcamp200/devops)
 
 ## Project Overview
 
